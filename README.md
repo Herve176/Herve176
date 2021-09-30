@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Herve176
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning Angular,html,css,javascript and ethical hacking
-- 💞️ I’m looking to collaborate on wep application 
+- 🌱 I’m currently learning Angular,html,css,javascript,c++,it security
+- 💞️ I’m looking to collaborate on wep application,software development 
 - 📫 How to reach me hdjomo1@gmail.com is my email
 
 <!---
