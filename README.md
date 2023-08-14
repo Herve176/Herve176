@@ -1,1 +1,1 @@
-![<Badge Name>](https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093#:~:text=Beautify%20Your%20GitHub%20Profile%20like%20a%20Pro%201,3%203.%20Contribute%2C%20Contribute%20and%20Contribute%20some%20more%21/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
