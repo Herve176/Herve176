@@ -28,12 +28,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://imgflip.com/gif/7wpxds"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
