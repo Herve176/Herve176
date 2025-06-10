@@ -43,7 +43,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Herve176/Herve176/output/snake.svg" alt="Snake animation" />
-
-###
